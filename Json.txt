@@ -1,0 +1,15 @@
+{
+
+"Planets" : [
+          {
+             "id":"01",
+             "name":"pluto",
+             "coordinate":"150,200"
+          },
+          {
+             "id":"02",
+             "name":"mars",
+             "coordinate":"200,340"
+          }
+            ]
+}
